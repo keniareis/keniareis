@@ -1,4 +1,4 @@
-### 🦂Hello Wolrd, I'm Kênia
+### 🦂Hello Wolrd, I'm Kênia, 📍BR
 
 📚Computer science academic
 
