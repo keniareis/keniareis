@@ -1,22 +1,29 @@
 ### 🦂Hello Wolrd, I'm Kênia, 📍BR
 
-📚Computer science academic
+##### 📚Computer science academic 
+##### 💜Passionate about the world of technology  
+##### ✨Trying to always improve my skills 
+##### 🍃Looking to enjoy life and the opportunities along the way 
 
-
-<a href="https://github.com/keniareis"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&theme=radical" /></a>
-<a href="https://github.com/keniareis"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
 ##
-### Technologys
-<div style="diplay: inline_block">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />        
-<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
-          
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="136em" align="left" src="https://github-readme-stats.vercel.app/api?username=keniareis&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats"/>
+    </td>
+    <td>
+      <img height="136em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats"/>
+    </td>
+  </tr>
+</table>
+
+
+### 💻Technologys
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,mysql,vscode,py,js,c,git" />
+  </a>
+</p>
 
 ##
 ### My social media
