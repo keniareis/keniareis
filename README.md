@@ -6,16 +6,8 @@
 ##### 🍃Looking to enjoy life and the opportunities along the way 
 
 ##
-<table>
-  <tr>
-    <td>
-      <img height="136em" align="left" src="https://github-readme-stats.vercel.app/api?username=keniareis&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats"/>
-    </td>
-    <td>
-      <img height="136em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/keniareis"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&theme=radical" /></a>
+<a href="https://github.com/keniareis"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
 
 
 ### 💻Technologys
