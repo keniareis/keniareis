@@ -1,9 +1,12 @@
 ### 🦂Hello Wolrd, I'm Kênia, 📍BR
 
-##### 📚Computer science academic 
-##### 💜Passionate about the world of technology  
-##### ✨Trying to always improve my skills 
-##### 🍃Looking to enjoy life and the opportunities along the way 
+ 📚Computer science academic 
+ 
+ 💜Passionate about the world of technology  
+ 
+ ✨Trying to always improve my skills 
+ 
+ 🍃Looking to enjoy life and the opportunities along the way 
 
 ##
 <a href="https://github.com/keniareis"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&theme=radical" /></a>
