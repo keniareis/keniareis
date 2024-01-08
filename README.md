@@ -1,12 +1,6 @@
 ### 🦂Hello Wolrd, I'm Kênia, 📍BR
 
- 📚Computer science academic 
- 
- 💜Passionate about the world of technology  
- 
- ✨Trying to always improve my skills 
- 
- 🍃Looking to enjoy life and the opportunities along the way 
+I am a computer science academic 💜 passionate about the world of technology. I am always looking to improve my skills and learn new tools and programming languages. I also like to take pictures, play music, read books and travel the world. My goal is to enjoy life and the opportunities that arise along the way 🍃.
 
 ##
 <a href="https://github.com/keniareis"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&theme=radical" /></a>
