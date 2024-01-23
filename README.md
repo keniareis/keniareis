@@ -1,4 +1,4 @@
-### 🦂Hello Wolrd, I'm Kênia, 📍BR
+# 🦂Hello Wolrd, I'm Kênia, 📍BR
 
 I am a computer science academic 💜 passionate about the world of technology. I am always looking to improve my skills and learn new tools and programming languages. I also like to take pictures, play music, watch movies, read books and travel the world. My goal is to enjoy life and the opportunities that arise along the way 🍃.
 
