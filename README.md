@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=header"/>
 
 # 🦂Hello Wolrd, I'm Kênia - Full Stack Developer📍BR
 
