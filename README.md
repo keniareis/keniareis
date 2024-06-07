@@ -3,8 +3,10 @@
 I am a computer science academic 💜 passionate about the world of technology. I am always looking to improve my skills and learn new tools and programming languages. I also like to take pictures, play music, watch movies, read books and travel the world. My goal is to enjoy life and the opportunities that arise along the way 🍃.
 
 ##
-<a href="https://github.com/keniareis"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&theme=radical" /></a>
-<a href="https://github.com/keniareis"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
+<div align="center">  
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=keniareis&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniareis&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+</div>
 
 
 ### 💻Technologys
