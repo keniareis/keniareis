@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=header"/>
+
 # 🦂Hello Wolrd, I'm Kênia - Full Stack Developer📍BR
 
 I am a computer science academic 💜 passionate about the world of technology. I am always looking to improve my skills and learn new tools and programming languages. I also like to take pictures, play music, watch movies, read books and travel the world. My goal is to enjoy life and the opportunities that arise along the way 🍃.
@@ -22,3 +24,5 @@ I am a computer science academic 💜 passionate about the world of technology. 
 <a href="https://www.instagram.com/keniaooliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:keniaolivereis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://twitter.com/Keniaoliveer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=footer"/>
