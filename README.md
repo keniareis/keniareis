@@ -13,7 +13,7 @@ I am a computer science academic 💜 passionate about the world of technology. 
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,mysql,postgres,vscode,py,angular,js,c,git" />
+    <img height="45em" src="https://skillicons.dev/icons?i=idea,java,spring,mysql,postgres,vscode,flutter,js,c,git" />
   </a>
 </p>
 
