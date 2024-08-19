@@ -1,7 +1,9 @@
 
 # 🦂Hello World, I'm Kênia - Software Developer📍BR
 
-I am a computer science academic 💜 passionate about the world of technology. I am always looking to improve my skills and learn new tools and programming languages. I also like to take pictures, play music, watch movies, read books and travel the world. My goal is to enjoy life and the opportunities that arise along the way 🍃.
+I’m a Computer Science academic with a deep passion for the world of technology 💜. I’m constantly striving to enhance my skills, explore new tools, and learn different programming languages. Currently, I’m engaged in several projects and also serve as the Director at Tech Jr.
+
+Beyond my love for technology, I enjoy capturing moments through photography, playing music, watching movies, diving into books, and traveling the world 🌍. My goal is to make the most of life and the opportunities that come my way while continuously expanding my knowledge and growing professionally 🍃.
 
 ##
 <div align="center">  
