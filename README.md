@@ -15,7 +15,7 @@ Beyond my love for technology, I enjoy capturing moments through photography, pl
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=java,spring,flutter,js,html,css,c,git" />
+    <img height="45em" src="https://skillicons.dev/icons?i=java,spring,nodejs,js,css,html,git" />
   </a>
 </p>
 
