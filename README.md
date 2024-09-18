@@ -13,10 +13,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif"/>
+<img align="right" height="150" src="https://i.pinimg.com/originals/d7/1e/c3/d71ec3b3901cb6e71b14a2764521d559.gif"/>
 
 ###
 
+<h4 align="left">I code with</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -34,7 +35,8 @@
 </div>
 
 ###
-
+###
+<h4 align="left">Social Midea</h4>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
