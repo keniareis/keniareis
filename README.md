@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👩🏻‍💻 Software Developer</p>
-<p align="left">👩🏻‍🏫 Instructor of Programming, Games and Robotics at IFMA</p>
+<p align="left">👩🏻‍🏫 Instructor of Programming, Games and Robotics at Mermãs Digitais</p>
 <p align="left">🎓 Computer science student at IFMA</p>
 
 
