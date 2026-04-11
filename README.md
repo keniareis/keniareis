@@ -16,7 +16,7 @@
 <h4 align="left">I code with</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,kafka,docker,postgres,mysql,mongo,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,react,flutter,kafka,docker,postgres,mysql,mongo,git" />
   </a>
 </p>
 
